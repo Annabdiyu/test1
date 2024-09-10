@@ -61,6 +61,7 @@ int main() {
     cout << "Total Sales: $" << totalSales << endl;
     cout << "Total Profit: $" << totalProfit << endl;
     cout << "Total Tax: $" << totalTax << endl;
+    cout <<"Thanks for using our app"<<endl;
 
     return 0;
 }
